@@ -1,0 +1,20 @@
+#main-panel
+{
+    display:flex;
+}
+#right-panel
+{
+    padding-left:15%;
+    padding-top:5%;
+    background:white url("/assets/logo_bckground.png") no-repeat center 0.3;
+    background-size: 100%;
+}
+.form-control{
+    display: block;
+    border : 1px solid white;
+    border-bottom:2px solid black;
+    padding-top:15%;
+}
+.cbox{
+    padding-top: 10%;
+}
