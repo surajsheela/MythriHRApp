@@ -1,15 +1,24 @@
-<<<<<<< HEAD
-# angular2-registration-login-example-cli
+#GIT Commands 
+create a new repository on the command line
 
-Angular 2/5 User Registration and Login Example with Angular CLI
+echo "# sample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/surajsheela/sample.git
+git push -u origin master
 
-To see a demo and further details go to http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
-=======
+push an existing repository from the command line
+
+git remote add origin https://github.com/surajsheela/sample.git
+git push -u origin master
+
 #List of Components
 Login Component
 EmployeeDetails Component
 AddUser Component
 Notifications Component
+
 
 
 
