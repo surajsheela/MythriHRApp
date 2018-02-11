@@ -4,7 +4,10 @@
     "outDir": "../out-tsc/spec",
     "baseUrl": "./",
     "module": "commonjs",
+<<<<<<< HEAD
     "target": "es5",
+=======
+>>>>>>> 107955331a3287aed8457845625dd6d9a8c823c5
     "types": [
       "jasmine",
       "node"

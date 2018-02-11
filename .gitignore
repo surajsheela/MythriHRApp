@@ -2,6 +2,10 @@
 
 # compiled output
 /dist
+<<<<<<< HEAD
+=======
+/dist-server
+>>>>>>> 107955331a3287aed8457845625dd6d9a8c823c5
 /tmp
 /out-tsc
 

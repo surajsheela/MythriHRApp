@@ -11,6 +11,12 @@
       "check-space"
     ],
     "curly": true,
+<<<<<<< HEAD
+=======
+    "deprecation": {
+      "severity": "warn"
+    },
+>>>>>>> 107955331a3287aed8457845625dd6d9a8c823c5
     "eofline": true,
     "forin": true,
     "import-blacklist": [
@@ -104,7 +110,10 @@
         "variable-declaration": "nospace"
       }
     ],
+<<<<<<< HEAD
     "typeof-compare": true,
+=======
+>>>>>>> 107955331a3287aed8457845625dd6d9a8c823c5
     "unified-signatures": true,
     "variable-name": false,
     "whitespace": [
@@ -127,7 +136,10 @@
       "app",
       "kebab-case"
     ],
+<<<<<<< HEAD
     "angular-whitespace": [true, "check-interpolation"],
+=======
+>>>>>>> 107955331a3287aed8457845625dd6d9a8c823c5
     "no-output-on-prefix": true,
     "use-input-property-decorator": true,
     "use-output-property-decorator": true,

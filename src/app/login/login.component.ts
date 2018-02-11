@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿import { Component, OnInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
 
@@ -41,4 +42,20 @@ export class LoginComponent implements OnInit {
                     this.loading = false;
                 });
     }
+=======
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-login',
+  templateUrl: './login.component.html',
+  styleUrls: ['./login.component.css']
+})
+export class LoginComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit() {
+  }
+
+>>>>>>> 107955331a3287aed8457845625dd6d9a8c823c5
 }
